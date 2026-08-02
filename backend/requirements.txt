@@ -1,4 +1,4 @@
-django
+django.
 djangorestframework
 python-dotenv
 mysqlclient
